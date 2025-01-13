@@ -51,7 +51,7 @@ Welcome to my GitHub profile! I'm a passionate **Junior Data Analyst** with expe
 ---
 
 ## 🌐 How to Reach Me
-- **Email**: [bharathiv206bsc@gmail.com]
+- **Email**: bharathiv206bsc@gmail.com
 - **LinkedIn**: https://www.linkedin.com/in/bharathi-v-8910b7293/ 
 - **GitHub**: https://github.com/Bharathiv1403
 
